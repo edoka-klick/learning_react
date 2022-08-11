@@ -1,2 +1,2 @@
 # Learning React
-This is a repo following the exercises and mini-projects of a course for React and Redux.
+Distributed in different folders step by step, from 0 to Expert xp, solving React exercises and challenges.
